@@ -26,12 +26,12 @@
            <div class="col-md-12 no-padding">
             <div class="abt-btm clearfix">
               <ul>
-                <li><object oa-reusable-svg data="images/bc.svg')}}" type="image/svg+xml" class="svg-class" height="50" width="70"> </object> <p>Building Construction </p></li>
-                <li><object oa-reusable-svg data="images/db.svg')}}" type="image/svg+xml" class="svg-class" height="50" width="50"> </object> <p>Design and Build </p></li>
-                <li><object oa-reusable-svg data="images/bm.svg')}}" type="image/svg+xml" class="svg-class" height="50" width="55"> </object> <p>Building Maintenance  </p></li>
-                <li><object oa-reusable-svg data="images/cp.svg')}}" type="image/svg+xml" class="svg-class" height="50" width="52"> </object> <p>Construction Planning </p></li>
-                <li><object oa-reusable-svg data="images/brr.svg')}}" type="image/svg+xml" class="svg-class" height="50" width="54"> </object> <p>Building Renovation </p></li>
-                <li><object oa-reusable-svg data="images/ps.svg')}}" type="image/svg+xml" class="svg-class" height="50" width="33"> </object> <p>Professional services</p></li>
+                <li><object oa-reusable-svg data="{{url('images/bc.svg')}}" type="image/svg+xml" class="svg-class" height="50" width="70"> </object> <p>Building Construction </p></li>
+                <li><object oa-reusable-svg data="{{url('images/db.svg')}}" type="image/svg+xml" class="svg-class" height="50" width="50"> </object> <p>Design and Build </p></li>
+                <li><object oa-reusable-svg data="{{url('images/bm.svg')}}" type="image/svg+xml" class="svg-class" height="50" width="55"> </object> <p>Building Maintenance  </p></li>
+                <li><object oa-reusable-svg data="{{url('images/cp.svg')}}" type="image/svg+xml" class="svg-class" height="50" width="52"> </object> <p>Construction Planning </p></li>
+                <li><object oa-reusable-svg data="{{url('images/brr.svg')}}" type="image/svg+xml" class="svg-class" height="50" width="54"> </object> <p>Building Renovation </p></li>
+                <li><object oa-reusable-svg data="{{url('images/ps.svg')}}" type="image/svg+xml" class="svg-class" height="50" width="33"> </object> <p>Professional services</p></li>
               </ul>
             </div>
             </div>

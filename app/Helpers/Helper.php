@@ -13,6 +13,7 @@ use Illuminate\Http\UploadedFile;
 class Helper {
 
  public static function uploadImage($uploadImage,$location,$filename=null,$width=null,$height=null){
+  dd('here');
    if($location==null || $uploadImage==null){
      return;
    }
